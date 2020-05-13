@@ -1,0 +1,1 @@
+This is my first real project on The Odin Project, replicating Google homepage.
